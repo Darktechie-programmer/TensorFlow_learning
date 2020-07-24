@@ -1,0 +1,58 @@
+Note : Deep Learning using Tesorflow... 
+topics : 
+	⌨️ Module 1: Machine Learning Fundamentals (00:03:25)
+	⌨️ Module 2: Introduction to TensorFlow (00:30:08)
+	⌨️ Module 3: Core Learning Algorithms (01:00:00)
+	⌨️ Module 4: Neural Networks with TensorFlow (02:45:39)
+	⌨️ Module 5: Deep Computer Vision - Convolutional Neural Networks (03:43:10)
+	⌨️ Module 6: Natural Language Processing with RNNs (04:40:44)
+	⌨️ Module 7: Reinforcement Learning with Q-Learning (06:08:00)
+	⌨️ Module 8: Conclusion and Next Steps (06:48:24)
+	
+My Understanding:
+	Module 1: Machine Learning Fundamentals :
+		--> Artificial Intelligence vs Neural Networks vs Machine Learning 
+		1. A.I:
+			--> Def : The effort to automate intellectual tasks normally performed by human
+			--> A.I can be simple or complex.
+			--> A.I. --(inside)-> M.L. --(inside)-> NN(Neural Network)
+			--> A.I is nothing but just set of rules so machine can do which the human wants to doing with them ...
+		2. M.L:
+			--> Machine Learning figure out the rules for us... so for A.T. used.
+				e.g --> [Data + Answer] --> (Machine Learning Programing) --> Genrate some rules
+					--> then [Data + rules] --> (Classical Programing) --> Answer
+			        So our Goal for machine learning models: Highest accuracy possible.. for better/best rules
+					
+			Machine Learning Summary : 
+					--> Rather than giving the program the rules, an algorithm finds the rules for us.
+		3. NN : 
+			--> def : A form of machine learning that uses a layered representation of data..
+			--> Multistage information extraction process.... (inshort)
+			
+	--> Data about : data have two things in supervised learning 1) Feature 2) label 
+	
+	Types of machine Learning :
+			1) Supervised Learning
+			2) Unsupervised Learning
+			3) Reinforcement Learning --> for me it's a best...
+	
+	1) Supervised Learning:
+			--> Dataset have feature and label... based on feature predict the label..
+			--> most of used... many of used..
+			
+	2) Unsupervised Learning:
+			--> Dataset have only feature based on feature predict the label...
+			--> many examples like using clustering based... k-mean,Heirarchy clustering etc
+			
+	3) Reinforcement Learning:
+			--> I loved this learning.... NO data , NO Lable... using the environmant agent learning just like a child and get some rewards good and bad type..
+			eg. AI games, tic-tac-toa... learning from experianced..
+			
+	
+	Module 2: Introduction to TensorFlow :
+		--> general introduction of TensorFlow..
+		--> Understanding What is Tensor is?
+		--> Understanding Shape and data is
+		--> How tensorflow work from begin ...
+	
+	
